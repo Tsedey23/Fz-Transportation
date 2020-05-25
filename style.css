@@ -1,0 +1,77 @@
+body{
+	background: black;
+	color: white;
+}
+img{
+	width: 100%;
+}
+.main-area {
+	background: url(image/truck.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+  
+    height: 700px;
+}
+
+.main-text{
+	
+	font-size: 2em;
+	font-style: tahoma;
+	font-family: bookman oldstyle;
+	padding-top: 100px;
+	padding-left:500px;
+}
+#navbarNav ul li a{
+color: yellow;
+}
+#navbarNav ul li a:hover{
+color: white;
+}
+#About-section{
+	background: black;
+}
+.left{
+	width: 48%;
+	background: purple;
+	color: white;
+	margin:1%;
+border:1px solid yellow;
+}
+.right{
+	width: 48%;
+	background: purple;
+	color: white;
+	margin:1%;
+	border:1px solid yellow;
+	}
+h2{
+		text-align: center;
+		color: yellow;
+	}
+
+#SERVICES{
+	background: black;
+	color: yellow;
+
+}
+h3{
+	text-align: center;
+
+}
+
+.input{
+	margin-left: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
